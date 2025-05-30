@@ -24,9 +24,8 @@ Funcionalidades--
 - Drill-through
 - Modelação dos dados
 
-- Screenshot Dashboard
 
-![Dashboard Screenshot](Screenshot pag inicial dashboard.png)
+
 
 
 
