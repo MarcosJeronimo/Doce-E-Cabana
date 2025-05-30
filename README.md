@@ -26,7 +26,7 @@ Funcionalidades--
 
 - Screenshot Dashboard
 
-![Dashboard Screenshot]file:///C:/Users/Asus/Desktop/Business%20Intelligence/[10804]%20Projeto%20BI/Screenshot%20pag%20inicial%20dashboard.png
+![Dashboard Screenshot](Screenshot pag inicial dashboard.png)
 
 
 
